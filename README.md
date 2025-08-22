@@ -1,10 +1,18 @@
-## Hi there 👋
+### Ola eu sou o Nicolas estudante tenho interesse na aria de programador pois é uma aria que realmente prende meu interesse, as linguagens que eu mais tenho segurança em mexer são, HTML-CSS-JAVA_SCRIPT
+#### Atualmente estou envolvido no projeto da radio da escola, quase fechando uma parceiria com a radio da UEL.
+![Imagem de operadora de radio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13YulFceEIEzHt64Ga61WMOovt2M_rL14SQ&s)
+# Habilidades e tecnologias
+### 1.HTML
+### 2.CSS
+### 3.JavaScript
+### 4.Canva
+### 5.Power Point
+
+:smile: :fire: :file_folder: :space_invader: :computer:
 
 <!--
 **NexStage675/NexStage675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+| ![Open Sourcerer](/Media/Badges/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
