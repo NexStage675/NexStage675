@@ -8,7 +8,7 @@
 ### 4.Canva
 ### 5.Power Point
 
-:smile: :fire: :file_folder: :space_invader: :computer:
+:smile: :fire: :file_folder: :space_invader: :computer: 
 
 <!--
 **NexStage675/NexStage675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
