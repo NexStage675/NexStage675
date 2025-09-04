@@ -9,6 +9,13 @@
 ### 5.Power Point
 # Redes sociais e contato:
 [VS CODE](http://127.0.0.1:3000/relogio.html)
+# Toque especial:
+
+[![Por do sol](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4wIHDMz0fRYyJAptUnopgbpljz5Ej4HgZSqci8jdo8kXs-YRX3uJSD_L9DQmR5mB5oMA&usqp=CAU)
+
+[![praia no por do sol](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLCu59R2aMG2lIHz_oej4BWPh5GIP0Adif7w&s)
+
+[![natureza com um lago](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxK8MUYS-_FcNAsDG0x0QXfnWeppSTqhleQ&s)
 
 :smile: :fire: :file_folder: :space_invader: :computer: 
 
