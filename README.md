@@ -7,6 +7,8 @@
 ### 3.JavaScript
 ### 4.Canva
 ### 5.Power Point
+# Redes sociais e contato:
+[VS CODE](http://127.0.0.1:3000/relogio.html)
 
 :smile: :fire: :file_folder: :space_invader: :computer: 
 
